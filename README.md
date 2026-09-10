@@ -1,4 +1,4 @@
-# Hi, I'm Hemamalini 👋
+# Hi, I'm Hemamalini 
 
 ### AI & Data Science Student | Data Analytics | Python
 
